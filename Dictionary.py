@@ -1,0 +1,20 @@
+words = {
+    "object": "անուն",
+    "method": "մեթոդ",
+    "function": "ֆունկցիա",
+    "variable": "տրամաբան",
+    "list": "ցանկ",
+    "tuple": "բաղադրիչ",
+    "dictionary": "բառարան",
+    "string": "տող",
+    "module": "մոդուլ",
+    "loop": "ցիկլ",
+    "index": "ինդեքս",
+    "integer": "թիվ",
+    "float": "լույսական",
+    "boolean": "բուլյան",
+    "operator": "գործիք",
+    "slice": "բաժին",
+    "range": "շրջան",
+    "exception": "բացառություն"
+}
