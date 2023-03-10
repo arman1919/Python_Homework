@@ -3,16 +3,15 @@
 
 # def my_map(func,iterable):
 #     for i in iterable:
-#         if func(i):
-#             yield i
-#
-# def zuyg(x):
-#     return x % 2 == 0
-#
-#
+#         yield func(i)
+# 
+# def qarakusi(x):
+#     return x ** 2
+# 
+# 
 # ls = [1,2,3,4,5,6,7,8,9]
-#
-# print(list(my_map(zuyg,ls)))
+# 
+# print(list(my_map(qarakusi,ls)))
 
 # def my_reduce(function, iterable, initializer=None):
 #     it = iter(iterable)
